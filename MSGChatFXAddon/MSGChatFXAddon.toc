@@ -1,0 +1,7 @@
+## Interface: 40300
+## Title : MSGChatFXAddon
+## Notes: Funny
+## Author: Karamu
+## Version: 1.0
+
+MSGChatFXAddon.lua
